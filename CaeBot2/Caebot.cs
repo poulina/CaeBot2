@@ -12,7 +12,7 @@ namespace CaeBot2
     {
         DiscordClient discord;
         // Bot settings
-        private readonly String DISCORD_API_KEY = "Mjg0MDIxMTU0MTcwMTQyNzIw.C496Fg.4e9f9uqZIwnm2JkWDwwgZAxolho";
+        private readonly String DISCORD_API_KEY = "Mjg0MTI4NjE5NDEwODgyNTYx.C4_G_g.S8MoNtmnDy0tmGJN9MK4yKKsd7g";
         private readonly char COMMAND_PREFIX = '!';
         private CommandService caebotCommands;
 
